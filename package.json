@@ -10,8 +10,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@aws-sdk/client-iot": "^3.92.0",
     "react": "17.0.2",
-    "react-native": "0.68.2"
+    "react-native": "0.68.2",
+    "react-native-device-info": "^8.7.1",
+    "react-native-dotenv": "^3.3.1",
+    "react-native-url-polyfill": "^1.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
