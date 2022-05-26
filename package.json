@@ -10,6 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@aws-sdk/client-greengrassv2": "^3.99.0",
     "@aws-sdk/client-iot": "^3.92.0",
     "react": "17.0.2",
     "react-native": "0.68.2",

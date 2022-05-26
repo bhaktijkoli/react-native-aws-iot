@@ -8,6 +8,7 @@ const App = () => {
     (async () => {
       try {
         iot.register()
+        iot.getEndpoint()
       } catch (error) {
         console.log(error)
       }
