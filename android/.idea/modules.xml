@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReactNativeAWSIOT.iml" filepath="$PROJECT_DIR$/.idea/modules/ReactNativeAWSIOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ReactNativeAWSIOT.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ReactNativeAWSIOT.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2059037917/ReactNativeAWSIOT.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/2059037917/ReactNativeAWSIOT.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-780133839/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-780133839/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
