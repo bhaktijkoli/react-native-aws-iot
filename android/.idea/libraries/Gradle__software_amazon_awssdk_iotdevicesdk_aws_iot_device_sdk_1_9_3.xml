@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: software.amazon.awssdk.iotdevicesdk:aws-iot-device-sdk:1.9.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk/1.9.3/db742b60ec3cffb114818af799d3f3866ce998af/aws-iot-device-sdk-1.9.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk/1.9.3/d3f5457660c7911cd7f1dc56ea0fcc8e62508eb2/aws-iot-device-sdk-1.9.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk/1.9.3/be56c395002211a050b390f8b95608db17b48f0b/aws-iot-device-sdk-1.9.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
